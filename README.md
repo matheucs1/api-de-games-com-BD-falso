@@ -1,5 +1,5 @@
 # API de Games
-
+API de Games com banco de dados falso para estudos
 ## Endpoints
 ### GET /games
 Esse endpoint é responsável por retornar a listagem de todos os games cadastrados no banco  de dados.
